@@ -1,0 +1,16 @@
+21 Lying-bed		LYBE
+22 Rising-bed		RIBE
+23 Sit-bed		SIBE
+24 Sit-chair		SCH
+25 Sit-sofa		SSO
+26 Sit-air		SAI
+27 Walking(forward)	WAF
+28 Jogging		JOF
+29 Walking(backward)	WAB
+30 Bending		BEX
+31 Bending-pick-up 	BEP
+32 Stumble		STU
+33 Limp			LIM
+34 Squatting-down	SQD
+35 Trip-over		TRO
+36 Coughing-sneezing	COSN

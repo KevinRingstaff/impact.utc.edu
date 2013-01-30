@@ -1,0 +1,24 @@
+Service 1
+
+Potential Fall Detected: UFT-LFT = 269959::Time Detected: 37095982333
+
+Calculated AAMV. Did not detect a class A or B ADL. AAMV = 2.6983403735134766::Time calculated: 37096662326
+Calculated FFI and FFAAM. Did not detect a class C ADL. FFI = 38 FFAAM = 14.054885633852168 Time calculated: 37096662326
+Inactivity Period Detected! Current Count: 25::Total Time: 0.060028 seconds
+Fall Dectected!!!!! Time is 37098462374
+
+Service 2
+
+Possible Fall Detected: UFT-LFT = 269959::Time Detected: 37095982333
+
+Calculated AAMV. Detected a class A or B ADL. AAMV = 2.600419500788844 Time detected: 37096612338
+Calculated FFI and FFAAM. Did not detect a class C ADL. FFI = 360 FFAAM = 7.039599887991575 Time calculated: 37096612338
+Inactivity Period Detected! Current Count: 25::Total Time: 0.060028 seconds
+
+Service 3
+
+Possible Fall Detected: UFT-LFT = 269959::Time Detected: 37095982333
+
+Calculated AAMV. Detected a class A or B ADL. AAMV = 2.600419500788844::Time detected: 37096612338
+Calculated FFI and FFAAM. Did not detect a class C ADL. FFI = 360 FFAAM = 7.039599887991575 Time calculated: 37096612338
+Inactivity Period Detected! Current Count: 25::Total Time: 0.060028 seconds
